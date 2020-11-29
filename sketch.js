@@ -76,9 +76,9 @@ function draw() {
 
   textSize(17);
   fill("yellow");
-  text("I am your Puppy 🐶Drago..😍 I am Hungry ",100,150);
+  text("I am your Puppy 🐶Drago..😍 I am Hungry!! ",100,150);
   fill("yellow");
-  text("Note: Press up arrow key to feed your pet Dog Drago",50,100);
+  text("Note: Press up arrow key to feed your pet Dog Drago!!",50,100);
   fill("yellow");
   text("Milk Bottles Remaining  "+foodS,170,490);
 
