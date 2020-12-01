@@ -68,7 +68,7 @@ function draw() {
   drawSprites();
   //add styles here
   strokeWeight(10);
-  stroke("blue");
+ stroke(random(0, 255), random(0, 255), random(0, 255));
   fill("yellow");
   textSize(40);
   text("VIRTUAL PET", 140, 50)
